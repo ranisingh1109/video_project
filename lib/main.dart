@@ -40,6 +40,7 @@ class _MyHomePageState extends State<MyHomePage> {
       ..initialize().then((value) {
         setState(() {});
       });
+    //http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
     super.initState();
   }
 
